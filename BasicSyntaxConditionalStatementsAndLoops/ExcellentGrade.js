@@ -1,0 +1,8 @@
+function grade(number){
+    if (number>=5.5) {
+        console.log('Excellent');
+    }else{
+        console.log('Not excellent');
+    }
+}
+grade(5.5)
